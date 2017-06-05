@@ -1,7 +1,3 @@
-*.class
-*.log
-/bin/
-
 /RUNNING_PID
 /logs/
 /project/*-shim.sbt
